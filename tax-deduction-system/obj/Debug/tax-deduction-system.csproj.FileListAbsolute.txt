@@ -1,0 +1,11 @@
+C:\Users\Zohaib Ul Hassan\source\repos\tax-deduction-system\bin\Debug\tax-deduction-system.exe.config
+C:\Users\Zohaib Ul Hassan\source\repos\tax-deduction-system\bin\Debug\tax-deduction-system.exe
+C:\Users\Zohaib Ul Hassan\source\repos\tax-deduction-system\bin\Debug\tax-deduction-system.pdb
+C:\Users\Zohaib Ul Hassan\source\repos\tax-deduction-system\obj\Debug\tax-deduction-system.csprojAssemblyReference.cache
+C:\Users\Zohaib Ul Hassan\source\repos\tax-deduction-system\obj\Debug\tax_deduction_system.Properties.Resources.resources
+C:\Users\Zohaib Ul Hassan\source\repos\tax-deduction-system\obj\Debug\tax-deduction-system.csproj.GenerateResource.cache
+C:\Users\Zohaib Ul Hassan\source\repos\tax-deduction-system\obj\Debug\tax-deduction-system.csproj.CoreCompileInputs.cache
+C:\Users\Zohaib Ul Hassan\source\repos\tax-deduction-system\obj\Debug\tax-deduction-system.exe
+C:\Users\Zohaib Ul Hassan\source\repos\tax-deduction-system\obj\Debug\tax-deduction-system.pdb
+C:\Users\Zohaib Ul Hassan\source\repos\tax-deduction-system\obj\Debug\tax_deduction_system.SalaryTax.resources
+C:\Users\Zohaib Ul Hassan\source\repos\tax-deduction-system\obj\Debug\tax_deduction_system.TrafficPoliceChallan.resources
